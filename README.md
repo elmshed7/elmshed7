@@ -35,18 +35,6 @@
 </p>
 
 ---
-
-## 🎧 Spotify (Ahmed Kamel)
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=default&artist=Ahmed%20Kamel)
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Quick Bio (English)
 **Flutter & Full-Stack developer from Egypt, Linux user, content creator on YouTube, and MIS student. Passionate about building mobile & web apps and teaching tech.**
 
